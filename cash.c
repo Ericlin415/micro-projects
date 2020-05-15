@@ -1,9 +1,12 @@
-// Harvard CS50-Project-1
-// Greedy Algorithm
-
+/* 
+Harvard CS50-Project-2
+Synopsis: --
+ 
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <math.h>
+#include <cs50.h>
 
 
 
